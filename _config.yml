@@ -17,6 +17,8 @@ navigation:
     url: /about
   - title: Contact
     url: /contact
+  - title: Lessons
+    url: /lessons
 
 social:
   email: me@andrewg.me
