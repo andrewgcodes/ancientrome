@@ -5,6 +5,6 @@ date:   2019-08-28
 description: Introduction to AncientRome.live
 ---
 
-<p class="intro"><span class="dropcap">Q</span>elcome to AncientRome.live! Here you can learn Latin and about ancient Rome for free!</p>
+<p class="intro"><span class="dropcap">W</span>elcome to AncientRome.live! Here you can learn Latin and about ancient Rome for free!</p>
 
 Feel free to explore the site or go straight to the lessons: https://learn.ancientrome.live/
