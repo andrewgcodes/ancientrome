@@ -15,6 +15,7 @@ navigation:
     url: /index.html
   - title: About
     url: /about
-
+  - title: Lessons
+    url: /lessons
 social:
   email: me@andrewg.me
