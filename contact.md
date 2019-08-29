@@ -9,7 +9,7 @@ title: Contact Long Haul
     <p class="intro"> Feel free to contact me with any questions or comments you may have.</p>
     <p> I will try to respond within 48 hours unless extenuating circumstances deem otherwise. Please keep messages respectful and kind.</p>
   </div>
-  <form action="http://formspree.io/andrewgao22@gmail.com" method="POST">
+  <form action="https://formspree.io/email@domain.tld" method="POST" />
     <label for="name">Name</label>
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
