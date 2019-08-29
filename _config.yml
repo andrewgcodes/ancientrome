@@ -16,6 +16,6 @@ navigation:
   - title: About
     url: /about
   - title: Lessons
-    url: /lessons
+    url: https://learn.ancientrome.live/
 social:
   email: me@andrewg.me
